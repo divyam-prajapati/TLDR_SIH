@@ -14,6 +14,8 @@ TLDR_SIH
 
 The backend component of the project retrieves articles from the PIB website using Selenium, preprocesses them for the MT5 model, and passes the results through a Django REST API to the frontend for display.
 
+## Screenshot
+![TL;DR](https://github.com/divyam-prajapati/divyam-prajapati-portfolio/blob/new-version/public/tldr.png?raw=true)
 
 ## Authors
 
